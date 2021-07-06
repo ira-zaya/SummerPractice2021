@@ -12,3 +12,4 @@
 ## TC_practice_GL.ino
 Программа, которая создавалась уже с помощью online electric circuit simulator с сайта www.tinkercad.com
 Там не используются библиотеки AccelStepper.h и GyverTimers.h, т.к. нет возможности их подключить. 
+### Ссылка на проект в Tinkercad: https://www.tinkercad.com/things/8Z77ZQoRpSx
