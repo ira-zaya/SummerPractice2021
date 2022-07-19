@@ -15,7 +15,7 @@ B00000,
 B00000,
 B00000,
 B00000
-};
+}; // strelochka
 
 float speed;
 int pos = 0;    
